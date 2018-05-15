@@ -1,0 +1,9 @@
+﻿  TCP_ServerMutilClient.cpp
+c:\users\thanh.dh166716\source\repos\socketprograming\tcp_servermutilclient\tcp_servermutilclient.cpp(15): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\thanh.dh166716\source\repos\socketprograming\tcp_servermutilclient\tcp_servermutilclient.cpp(81): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\thanh.dh166716\source\repos\socketprograming\tcp_servermutilclient\tcp_servermutilclient.cpp(84): warning C4018: '<': signed/unsigned mismatch
+c:\users\thanh.dh166716\source\repos\socketprograming\tcp_servermutilclient\tcp_servermutilclient.cpp(94): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\thanh.dh166716\source\repos\socketprograming\tcp_servermutilclient\tcp_servermutilclient.cpp(127): warning C4018: '<': signed/unsigned mismatch
+c:\users\thanh.dh166716\source\repos\socketprograming\tcp_servermutilclient\tcp_servermutilclient.cpp(137): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\thanh.dh166716\source\repos\socketprograming\tcp_servermutilclient\tcp_servermutilclient.cpp(156): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  TCP_ServerMutilClient.vcxproj -> C:\Users\thanh.dh166716\source\repos\SocketPrograming\x64\Debug\TCP_ServerMutilClient.exe
